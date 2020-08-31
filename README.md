@@ -28,8 +28,8 @@ Pixar is an image search application that implements three different Image searc
 Clone/download the repository on your local machine.
 Create a .env file in the root of the project folder and insert your secret keys. See the example below.
 
-`REACT_APP_UNSPLASH_API_KEY='Your Unsplash API KEY'`
-`REACT_APP_PIXABAY_API_KEY='Your PixaBay API KEY'`
+`REACT_APP_UNSPLASH_API_KEY='Your Unsplash API KEY'`  
+`REACT_APP_PIXABAY_API_KEY='Your PixaBay API KEY'`  
 `REACT_APP_PEXELS_API_KEY='Your Pexels API KEY'`
 
 
@@ -48,18 +48,18 @@ Create a .env file in the root of the project folder and insert your secret keys
 
 ### Main Page
 
-![](images/Pixar_MainPage.png)
+![](src/images/Pixar_MainPage.png)
 
 ### Unsplash API Page
 
-![](images/UnsplashAPI_Page.png)
+![](src/images/UnsplashAPI_Page.png)
 
 ### PixaBay API Page
 
-![](images/PixaBayAPI_Page.png)
+![](src/images/PixaBayAPI_Page.png)
 
 ### Pexels API Page
 
-![](images/PexelsAPI_Page.png)
+![](src/images/PexelsAPI_Page.png)
 
 
