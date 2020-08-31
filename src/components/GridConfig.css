@@ -1,0 +1,20 @@
+.ZGrid{
+    display: flex;
+    justify-content:flex-start;
+
+    
+}
+
+.MuiGridList-root {
+    padding: 1px !important;
+    margin-left: 40px !important;
+    margin-right: 5px !important;
+    
+}
+
+img{
+    width: 32% !important; 
+    height: 300px !important;
+    padding: 5px !important;
+}
+

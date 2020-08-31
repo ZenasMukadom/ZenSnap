@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+.flexContainer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+#Label-space{
+    margin: 1px;
+}
+
+.inputStyle{
+    font-size:5.5em !important;
+    padding: 10px !important;
+    display: inline-block;
+    width:55%;
+}
+
+h2{
+    font-family: 'Nosifer', cursive;
+    color: #3385ff;
+}
+

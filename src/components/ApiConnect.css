@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+.ZflexContainer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:1px;    
+}
+
+h1{
+    font-family: 'Nosifer', cursive;
+    font-size: 50px;
+    color: #3385ff;
+    margin:1px;
+    
+    
+}
+
+.ZText{
+    font-family: 'Bungee Inline', cursive;
+    color: #3385ff;
+    font-size: 15px;
+}
+
+Button{
+    width: 250px;
+}
+
+.ZButtons{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left: 20%;
+}
+
+.ZSelect{
+    justify-content:center;
+    margin-left: 90%;
+    color: #3385ff;
+}
+
+
+b{
+    color: #3385ff;
+}
+
