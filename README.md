@@ -67,5 +67,5 @@ Create a .env file in the root of the project folder and insert your secret keys
 
 ### Zoom Functionality
 
-![](src/images/PixarAppDemo)
+![](src/images/PixarAppDemo.gif)
 
