@@ -50,13 +50,16 @@ Create a .env file in the root of the project folder and insert your secret keys
 
 ![](src/images/Pixar_MainPage.png)
 
+
 ### Unsplash API Page
 
 ![](src/images/UnsplashAPI_Page.png)
 
+
 ### PixaBay API Page
 
 ![](src/images/PixaBayAPI_Page.png)
+
 
 ### Pexels API Page
 
