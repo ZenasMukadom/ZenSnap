@@ -65,7 +65,4 @@ Create a .env file in the root of the project folder and insert your secret keys
 
 ![](src/images/PexelsAPI_Page.png)
 
-### Zoom Functionality
-
-![](src/images/PixarAppDemo)
 
