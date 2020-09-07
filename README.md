@@ -1,6 +1,6 @@
 # ZenSnap
 
-ZenSnap is an image search system that retrieves a gallery of images depending upon the search query using ReactJS library. The search query is sent through HTTP to three different image querying APIs namely: Unsplash, PixaBay and Pexels. The response is a JSON object containing a list of image URLs that satisfy the search query. HTTP request and response requests are handled using Axios library on NodeJs platform Navigation to different tabs is done through React-Router to obtain Single Page Application.
+ZenSnap is an image search system that retrieves a gallery of images depending upon the search query and depth limit using ReactJS library. The search query is sent through HTTP to three different image querying APIs namely: Unsplash, PixaBay and Pexels. The response is a JSON object containing a list of image URLs that satisfy the search query. HTTP request and response interactions are handled using Axios library on NodeJs platform Navigation to different tabs is done through React-Router to obtain Single Page Application.
 
 ## Features
 
@@ -8,7 +8,7 @@ ZenSnap is an image search system that retrieves a gallery of images depending u
 
 **2. No. of Images per page is dynamically decided by the User.**
 
-**3. Image magnification feature is implemented through react-medium-zoom library.**
+**3. Image magnification feature is implemented through react-medium-zoom library for individual images.**
 
 
 ## Built With
