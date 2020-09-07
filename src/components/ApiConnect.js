@@ -67,7 +67,7 @@ export default class ApiConnect extends Component {
         return (
             <div>
                 <Container className="ZBackground">
-                    <h1 className="ZflexContainer">PIXAR</h1>
+                    <h1 className="ZflexContainer">ZenSnap</h1>
                     <SearchBar userSubmit={this.onSearchSubmit} />
                 </Container>
                 <Router>
